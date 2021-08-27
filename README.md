@@ -14,6 +14,6 @@ generation is a pure function of the one before.)
 
 ### Language used : C++  
 ### Interaction with code will do done with CLI .
-### Code can be complied on : https://www.onlinegdb.com/online_c++_compiler
+### Code can be compiled on : https://www.onlinegdb.com/online_c++_compiler
 
 
