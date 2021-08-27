@@ -13,7 +13,7 @@ simultaneously, and the discrete moment at which this happens is called a tick. 
 generation is a pure function of the one before.)
 
 ### Language used : C++  
-### Interaction with code will do done with CLI .
+### Interaction with code will done with CLI .
 ### Code can be compiled on : https://www.onlinegdb.com/online_c++_compiler
 
 
